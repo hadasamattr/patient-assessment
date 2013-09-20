@@ -1,0 +1,3 @@
+﻿Module TraumaRandom
+
+End Module

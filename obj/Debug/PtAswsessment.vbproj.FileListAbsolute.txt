@@ -1,0 +1,23 @@
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\bin\Debug\PtAswsessment.exe.config
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\bin\Debug\PtAswsessment.exe
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\bin\Debug\PtAswsessment.pdb
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\bin\Debug\PtAswsessment.xml
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\obj\Debug\PtAswsessment.Form1.resources
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\obj\Debug\PtAswsessment.Resources.resources
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\obj\Debug\PtAswsessment.vbproj.GenerateResource.Cache
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\obj\Debug\PtAswsessment.exe
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\obj\Debug\PtAswsessment.xml
+C:\Users\Anon\AppData\Local\Temporary Projects\PtAswsessment\obj\Debug\PtAswsessment.pdb
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAswsessment.vbproj.GenerateResource.Cache
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\bin\Debug\PtAssessment.exe.config
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\bin\Debug\PtAssessment.exe
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\bin\Debug\PtAssessment.pdb
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\bin\Debug\PtAssessment.xml
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.Form1.resources
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.Medical.resources
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.Resources.resources
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.SceneSizeup.resources
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.Trauma.resources
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.exe
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.xml
+C:\Users\Anon\Documents\Visual Studio 2012\Projects\PtAswsessment\PtAswsessment\obj\Debug\PtAssessment.pdb
